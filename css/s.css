@@ -4,6 +4,9 @@ body{
 header{
 	height: 183px;
 }
+nav {
+	padding-left: 43px;
+}
 nav pre{
 	margin: 0px;
 	float: left;
